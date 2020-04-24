@@ -8,7 +8,8 @@ Applied Gradient Decent,  Backpropagation concepts from sratch.
 The data comes from the [UCI Machine Learning Database](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset)
 
 ### The training loss is below 0.09 and the validation loss is below 0.18.
-(https://github.com/Adityasakare/Udacity-Deep-Learning-Nanodegree-/blob/master/project-bikesharing/ss1.jpg)
+
+![alt text](https://github.com/Adityasakare/Udacity-Deep-Learning-Nanodegree-/blob/master/project-bikesharing/ss1.jpg, "Train")
 ### Predictaion Here, used the test data to view how well my network is modeling the data
 Image
 
