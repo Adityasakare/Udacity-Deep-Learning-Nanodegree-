@@ -7,10 +7,10 @@ In this project i build Neural network that  to carry out a prediction problem o
 Applied Gradient Decent,  Backpropagation concepts from sratch.
 The data comes from the [UCI Machine Learning Database](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset)
 
-### The training loss is below 0.09 and the validation loss is below 0.18.
-Image
-### Predictaion Here, used the test data to view how well my network is modeling the data
-Image
+#### The training loss is below 0.09 and the validation loss is below 0.18.
+
+#### Predictaion Here, used the test data to view how well my network is modeling the data
+
 
 ___
 
@@ -21,14 +21,6 @@ The accuracy on test data
 `Test Loss: 0.959668
 Test Accuracy: 73% (615/836)`
 
-### Classified perfect Human
-Human image
-
-### classified perfect dog
-dog image
-
-### classified forgien alien :p
-cat image
 
 ___
 
@@ -37,8 +29,7 @@ In this project , i generated own Seinfeld TV scripts using RNNs.I used some par
 The Neural Network generated a new ,"fake" TV script, based on patterns it recognizes in this training data.
 The RNN included an LSTM and one fully-connected layer.
 
-### Geneated Text
-image
+
 
 ---
 
@@ -46,5 +37,4 @@ image
 In this project i used used generative adversarial networks (GANs) to generate new images of faces.
 I trained a [DCGAN] (https://arxiv.org/abs/1511.06434) on a dataset of faces.The goal was to get a generator network to generate new images of faces that look as realistic as possible!
 I used [CelebFaces Attributes Dataset (CelebA)](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) to train adversarial networks.
-### Generated faces from sample
-Image 
+
