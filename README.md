@@ -23,14 +23,6 @@ The accuracy on test data
 `Test Loss: 0.959668
 Test Accuracy: 73% (615/836)`
 
-### Classified perfect Human
-Human image
-
-### classified perfect dog
-dog image
-
-### classified forgien alien :p
-cat image
 
 ___
 
@@ -39,8 +31,7 @@ In this project , i generated own Seinfeld TV scripts using RNNs.I used some par
 The Neural Network generated a new ,"fake" TV script, based on patterns it recognizes in this training data.
 The RNN included an LSTM and one fully-connected layer.
 
-### Geneated Text
-image
+
 
 ---
 
@@ -48,5 +39,4 @@ image
 In this project i used used generative adversarial networks (GANs) to generate new images of faces.
 I trained a [DCGAN] (https://arxiv.org/abs/1511.06434) on a dataset of faces.The goal was to get a generator network to generate new images of faces that look as realistic as possible!
 I used [CelebFaces Attributes Dataset (CelebA)](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) to train adversarial networks.
-### Generated faces from sample
-Image 
+
