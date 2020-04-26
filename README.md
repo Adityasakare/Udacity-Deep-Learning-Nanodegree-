@@ -2,6 +2,7 @@
 I enrolled for Deep Learning Nanodegree course from Udacity.These projects i created from what i learnt from Udacity.
 Checkout these projects and if you want to make your own do fork , clone and start experimenting. :D 
 
+
 ## Bike-Sharing prediction
 In this project i build Neural network that  to carry out a prediction problem on a real dataset! It is used to predict daily bike rental ridership.
 Applied Gradient Decent,  Backpropagation concepts from sratch.
